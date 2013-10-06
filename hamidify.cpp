@@ -4,7 +4,10 @@
 
 eusing enamespace estd;
 
-eint emain() {
-    cout << "The estream is camming!" << endl;
+begin_hamid
+    interrogate
+    speak
+    joke
+
     ereturn 0;
-}
+end_hamid
