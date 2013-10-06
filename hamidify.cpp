@@ -1,10 +1,4 @@
-#define eusing using
-#define enamespace namespace
-#define estd std
-#define eint int
-#define emain main
-#define ereturn return
-
+#include "hamidify.h"
 #include <iostream>
 #include <cstdlib>
 
