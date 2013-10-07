@@ -7,7 +7,7 @@ The estream is coming!
 Motivation
 ----------
 It is the 21st century yet no modern-day compiler exists for parsing hamid language... until now.
-Top-3 human being Chris Piatek has used the unparalleled powers of the C preprocessor to write a basic compiler for the hamid  language.
+Top-3 human being Chris Piatek has used the unparalleled powers of the C preprocessor to write a basic compiler for the hamid language.
 Now, you can write C++ programs as hamid would (try it on your next programming lab!) and compile them with no errors!
  
 Usage
@@ -29,3 +29,10 @@ end_hamid
 ```
 
 See the hamid.cpp file for more on usage.
+
+Alternatively, write your code in usual C++ syntax, and with the hamidifier.sh script,
+you can covert the file into the far more elegant and refined hamid language:
+```
+./hamidifier.sh inputfilename.cpp  -o outputfilename.cpp
+```
+
