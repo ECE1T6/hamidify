@@ -12,7 +12,8 @@
 #define emain main
 #define ereturn return
 #define begin_hamid int main() {
-#define end_hamid }
+#define estart { 
+#define efinish }
 #define coffee_send pthread_create
 #define coffee_wait pthread_join
 #define coffee_return pthread_exit
