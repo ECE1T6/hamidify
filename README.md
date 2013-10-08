@@ -30,7 +30,7 @@ end_hamid
 
 See the hamid.cpp file for more on usage.
 
-Alternatively, write your code in usual C++ syntax, and with the hamidifier.sh script,
+[IN PROGRESS]:Alternatively, write your code in usual C++ syntax, and with the hamidifier.sh script,
 you can covert the file into the far more elegant and refined hamid language:
 ```
 ./hamidifier.sh inputfilename.cpp  -o outputfilename.cpp
