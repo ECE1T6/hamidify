@@ -11,9 +11,9 @@
 #define efloat float
 #define emain main
 #define ereturn return
-#define begin_hamid int main() {
+#define estart_hamid int main() {
 #define estart { 
-#define efinish }
+#define estop }
 #define coffee_send pthread_create
 #define coffee_wait pthread_join
 #define coffee_return pthread_exit
