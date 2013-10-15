@@ -3,15 +3,15 @@
 
 //efunctions and edeclarations
 #define eusing using
-#define enamespace namespace
+#define namehspace namespace
 #define estd std
-#define eint int
 #define estring string
 #define edouble double
 #define efloat float
 #define emain main
 #define ereturn return
-#define estart_hamid int main() {
+#define estart_hamid int main(void) {
+#define estop_hamid return 0; }
 #define estart { 
 #define estop }
 #define coffee_send pthread_create
@@ -24,9 +24,7 @@
 #define speak cout<<"the estream is camming"<<endl;
 #define interrogate cout<<"are you ewith me?"<<endl;
 #define joke cout<<"don't esay hamid edon't ehave estyle?. I have estyle *epoints to shirt*"<<endl;
-#define please pls
-#define heit height
-#define wits width
+#define pls please
 
 #endif
 
